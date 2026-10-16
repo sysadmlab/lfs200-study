@@ -3,6 +3,7 @@
 A record of the hands-on lab work completed during the Linux Foundation's [Fundamentals of Open Source IT and Cloud Computing (LFS200)](https://training.linuxfoundation.org/training/fundamentals-of-open-source-it-and-cloud-computing-lfs200/) course. Only chapters with practical terminal work are documented here. Conceptual chapters are studied but not included in this repository.
 
 **Started:** 03-June-2026
+**Completed:** 26-July-2026
 
 ---
 
